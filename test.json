@@ -6,7 +6,7 @@
         "data": {
             "description": "",
             "edges": [],
-            "hash": "34f214649e27c33ea22c0dd6363172679b9d6dd0",
+            "hash": "9cdbf59fb30eb1616e000d6074be09c33c8fbb2d",
             "nodes": {
                 "0": {
                     "data": {
@@ -22,7 +22,7 @@
                     "type": "start",
                     "warnings": {},
                     "x": 1000,
-                    "y": 419.9999999999998
+                    "y": 419.99999999999966
                 },
                 "1": {
                     "data": {
@@ -39,6 +39,27 @@
                     "warnings": {},
                     "x": 1000,
                     "y": 1000
+                },
+                "2": {
+                    "data": {
+                        "advanced": {
+                            "join": []
+                        },
+                        "functionId": 1,
+                        "functionName": "action_1",
+                        "id": "2",
+                        "type": "action"
+                    },
+                    "errors": {},
+                    "id": "2",
+                    "type": "action",
+                    "warnings": {
+                        "context": [
+                            "Connect block to playbook flow."
+                        ]
+                    },
+                    "x": 962,
+                    "y": 678
                 }
             },
             "notes": ""
@@ -48,9 +69,9 @@
         "playbook_type": "automation",
         "python_version": "3",
         "schema": "5.0.10",
-        "version": "6.0.2.122748"
+        "version": "10155.0.0.123350"
     },
-    "create_time": "2023-04-27T23:12:10.894384+00:00",
+    "create_time": "2023-05-04T17:16:49.221349+00:00",
     "draft_mode": false,
     "labels": [
         "*"
