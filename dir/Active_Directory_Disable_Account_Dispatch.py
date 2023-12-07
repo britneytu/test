@@ -32,7 +32,7 @@ def dispatch_account_disable(action=None, success=None, container=None, results=
     }
 
     ################################################################################
-    ## Custom Code Start
+    ## Custom Ce Start
     ################################################################################
 
     # Write your custom code here...
